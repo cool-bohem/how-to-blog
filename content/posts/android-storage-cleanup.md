@@ -3,6 +3,7 @@ title: "안드로이드 스마트폰 저장공간 늘리는 방법 (2026)"
 description: "저장공간이 부족하다는 알림이 뜰 때, 스마트폰 용량을 확보하는 방법을 알려드려요"
 date: "2026-04-05"
 tags: ["안드로이드", "저장공간", "갤럭시"]
+image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&auto=format&fit=crop"
 ---
 
 ## 스마트폰 저장공간 확보하기

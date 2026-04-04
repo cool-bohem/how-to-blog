@@ -3,6 +3,7 @@ title: "정부24에서 주민등록등본 인터넷으로 발급받는 방법 (2
 description: "주민등록등본을 주민센터 안 가고 정부24에서 무료로 발급받는 방법을 알려드려요"
 date: "2026-03-02"
 tags: ["정부24", "민원", "주민등록등본"]
+image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&auto=format&fit=crop"
 ---
 
 ## 정부24 온라인 발급이란?

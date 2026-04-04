@@ -3,6 +3,7 @@ title: "갤럭시 와이파이 느릴 때 해결 방법 5가지 (2026)"
 description: "갤럭시 스마트폰 와이파이가 느리거나 자꾸 끊긴다면? 이 방법들로 대부분 해결돼요"
 date: "2026-04-02"
 tags: ["갤럭시", "와이파이", "인터넷"]
+image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&auto=format&fit=crop"
 ---
 
 ## 갤럭시 와이파이가 느린 이유

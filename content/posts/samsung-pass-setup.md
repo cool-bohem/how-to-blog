@@ -3,6 +3,7 @@ title: "삼성 패스(Samsung Pass) 설정하고 사용하는 방법"
 description: "삼성 패스로 앱 로그인과 비밀번호를 지문/얼굴로 자동 입력하는 방법을 알려드려요"
 date: "2026-03-12"
 tags: ["삼성패스", "갤럭시", "생체인증"]
+image: "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=800&auto=format&fit=crop"
 ---
 
 ## 삼성 패스란?

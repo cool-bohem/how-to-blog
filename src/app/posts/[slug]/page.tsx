@@ -1,6 +1,7 @@
 import { getAllPosts, getPost } from "@/lib/posts";
 import AdBanner from "@/components/AdBanner";
 import Link from "next/link";
+import Image from "next/image";
 import type { Metadata } from "next";
 
 interface Props {
@@ -27,6 +28,13 @@ export default async function PostPage({ params }: Props) {
       <Link href="/" className="inline-flex items-center gap-1 text-sm text-blue-500 hover:text-blue-700 mb-6">
         ← 목록으로
       </Link>
+
+      {/* 헤더 이미지 */}
+      {post.image && (
+        <div className="relative w-full h-52 rounded-2xl overflow-hidden mb-6 shadow-sm">
+          <Image src={post.image} alt={post.title} fill className="object-cover" unoptimized />
+        </div>
+      )}
 
       {/* 헤더 */}
       <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-7 mb-6">

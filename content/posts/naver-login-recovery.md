@@ -3,6 +3,7 @@ title: "네이버 아이디 비밀번호 찾기 방법 (2026년 최신)"
 description: "네이버 로그인이 안 될 때, 아이디와 비밀번호를 찾는 방법을 단계별로 알려드려요"
 date: "2026-04-04"
 tags: ["네이버", "비밀번호찾기", "계정복구"]
+image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&auto=format&fit=crop"
 ---
 
 ## 네이버 비밀번호 찾기

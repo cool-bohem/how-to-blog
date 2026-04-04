@@ -3,6 +3,7 @@ title: "인스타그램 릴스 저장하는 방법 (영상 다운로드)"
 description: "인스타그램 릴스 영상을 갤러리에 저장하는 방법을 알려드려요"
 date: "2026-03-13"
 tags: ["인스타그램", "릴스", "영상저장"]
+image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=800&auto=format&fit=crop"
 ---
 
 ## 인스타그램 릴스 저장 방법

@@ -1,5 +1,6 @@
 import { getAllPosts } from "@/lib/posts";
 import Link from "next/link";
+import Image from "next/image";
 
 const TAG_COLORS: Record<string, string> = {
   "아이폰": "bg-blue-100 text-blue-700",
@@ -57,8 +58,17 @@ export default function Home() {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
         {posts.map((post) => (
           <Link key={post.slug} href={`/posts/${post.slug}`}>
-            <article className="bg-white rounded-xl shadow-sm border border-gray-100 p-5 h-full hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 cursor-pointer flex flex-col">
-              <div className="text-3xl mb-3">{postIcon(post.tags)}</div>
+            <article className="bg-white rounded-xl shadow-sm border border-gray-100 h-full hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 cursor-pointer flex flex-col overflow-hidden">
+              {post.image ? (
+                <div className="relative w-full h-40">
+                  <Image src={post.image} alt={post.title} fill className="object-cover" unoptimized />
+                </div>
+              ) : (
+                <div className="w-full h-40 bg-gradient-to-br from-blue-50 to-blue-100 flex items-center justify-center text-5xl">
+                  {postIcon(post.tags)}
+                </div>
+              )}
+              <div className="p-5 flex flex-col flex-1">
               <h2 className="text-base font-bold text-gray-800 mb-2 leading-snug line-clamp-2">
                 {post.title}
               </h2>
@@ -70,6 +80,7 @@ export default function Home() {
                   </span>
                 ))}
                 <span className="text-xs text-gray-300 ml-auto">{post.date}</span>
+              </div>
               </div>
             </article>
           </Link>

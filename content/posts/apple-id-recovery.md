@@ -3,6 +3,7 @@ title: "애플 ID 비밀번호 찾기 및 계정 복구 방법 (2026)"
 description: "애플 ID 비밀번호를 잊어버렸을 때 아이폰에서 바로 복구하는 방법을 알려드려요"
 date: "2026-03-15"
 tags: ["애플ID", "아이폰", "계정복구"]
+image: "https://images.unsplash.com/photo-1621768216002-5ac171661f92?w=800&auto=format&fit=crop"
 ---
 
 ## 애플 ID 비밀번호 찾기

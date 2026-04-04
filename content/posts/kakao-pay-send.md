@@ -3,6 +3,7 @@ title: "카카오페이로 송금하는 방법 (처음 사용자도 쉽게)"
 description: "카카오페이 설치부터 충전, 친구에게 송금하는 방법까지 순서대로 알려드려요"
 date: "2026-03-11"
 tags: ["카카오페이", "송금", "간편결제"]
+image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&auto=format&fit=crop"
 ---
 
 ## 카카오페이 송금이란?

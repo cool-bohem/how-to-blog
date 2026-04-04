@@ -3,6 +3,7 @@ title: "유튜브 데이터 절약하는 방법 (모바일 데이터 아끼기)"
 description: "유튜브 보다가 데이터 다 쓰셨나요? 설정 몇 가지로 데이터 사용량을 크게 줄일 수 있어요"
 date: "2026-04-03"
 tags: ["유튜브", "데이터절약", "앱설정"]
+image: "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=800&auto=format&fit=crop"
 ---
 
 ## 유튜브 데이터 절약 설정

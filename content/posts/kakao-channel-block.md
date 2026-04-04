@@ -3,6 +3,7 @@ title: "카카오톡 채널 광고 메시지 차단하는 방법"
 description: "카카오톡에 오는 광고성 채널 메시지를 차단하고 수신 거부하는 방법을 알려드려요"
 date: "2026-03-03"
 tags: ["카카오톡", "광고차단", "채널"]
+image: "https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=800&auto=format&fit=crop"
 ---
 
 ## 카카오톡 채널 광고 메시지 차단

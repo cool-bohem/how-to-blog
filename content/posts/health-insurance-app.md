@@ -3,6 +3,7 @@ title: "국민건강보험 앱으로 보험료 조회하고 납부하는 방법 
 description: "The건강보험 앱 하나로 보험료 조회, 납부, 환급금 확인까지 하는 방법을 알려드려요"
 date: "2026-03-04"
 tags: ["건강보험", "민원", "앱활용"]
+image: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=800&auto=format&fit=crop"
 ---
 
 ## 국민건강보험 앱 활용하기

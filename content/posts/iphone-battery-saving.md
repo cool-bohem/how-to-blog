@@ -3,6 +3,7 @@ title: "아이폰 배터리 빨리 닳는 이유와 절약 방법 7가지 (2026)
 description: "아이폰 배터리가 하루를 못 버틴다면? 설정 몇 가지만 바꿔도 확실히 달라져요"
 date: "2026-04-01"
 tags: ["아이폰", "배터리", "iOS"]
+image: "https://images.unsplash.com/photo-1512054502232-10a0a035d672?w=800&auto=format&fit=crop"
 ---
 
 ## 아이폰 배터리가 빨리 닳는 이유

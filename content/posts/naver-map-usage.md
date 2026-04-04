@@ -3,6 +3,7 @@ title: "네이버 지도 길찾기 제대로 쓰는 방법 (대중교통, 도보
 description: "네이버 지도로 대중교통, 자동차, 도보 길찾기를 빠르게 하는 방법과 유용한 기능을 알려드려요"
 date: "2026-03-07"
 tags: ["네이버지도", "길찾기", "대중교통"]
+image: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=800&auto=format&fit=crop"
 ---
 
 ## 네이버 지도 길찾기 기본

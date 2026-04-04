@@ -3,6 +3,7 @@ title: "크롬 브라우저 느릴 때 빠르게 만드는 방법 (2026)"
 description: "크롬이 너무 느리고 무겁다면? 간단한 설정 변경으로 속도를 크게 개선할 수 있어요"
 date: "2026-03-09"
 tags: ["크롬", "브라우저", "PC속도"]
+image: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&auto=format&fit=crop"
 ---
 
 ## 크롬이 느려지는 이유

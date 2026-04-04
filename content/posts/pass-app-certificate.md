@@ -3,6 +3,7 @@ title: "PASS 앱으로 신분증 대신 본인인증하는 방법 (2026)"
 description: "PASS 앱 설치부터 본인인증, 모바일 운전면허증 사용법까지 한번에 알려드려요"
 date: "2026-03-10"
 tags: ["PASS", "본인인증", "모바일신분증"]
+image: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=800&auto=format&fit=crop"
 ---
 
 ## PASS 앱이란?

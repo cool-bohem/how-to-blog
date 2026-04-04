@@ -3,6 +3,7 @@ title: "윈도우 컴퓨터 느려졌을 때 빠르게 해결하는 방법 (2026
 description: "컴퓨터가 갑자기 느려졌다면? 재설치 없이 간단한 설정으로 속도를 되살리는 방법을 알려드려요"
 date: "2026-03-01"
 tags: ["윈도우", "PC", "컴퓨터속도"]
+image: "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=800&auto=format&fit=crop"
 ---
 
 ## 컴퓨터가 느려지는 이유
