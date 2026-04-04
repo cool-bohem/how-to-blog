@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   description: "스마트폰, 앱, 생활 민원까지 — 누구나 따라할 수 있는 방법 안내",
   verification: {
-    google: "hPUgoA2GhmhKyG1s_aADMbuef1yiiRzLmHWh-y6wEIE",
+    google: "Z811HVEFc0wJVNqVXsoIOtJZSc8fTG4sUOtjYeEH0es",
     other: {
       "naver-site-verification": "f71e3f5841f4326a6453bcc664ff77d8a70bd996",
     },
