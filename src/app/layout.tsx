@@ -23,15 +23,18 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           />
         )}
       </head>
-      <body className="bg-white text-gray-800 min-h-screen">
-        <header className="border-b px-6 py-4">
-          <a href="/" className="text-xl font-bold text-blue-600">
-            쉽게 따라하기
-          </a>
+      <body className="bg-gray-50 text-gray-800 min-h-screen">
+        <header className="bg-white border-b shadow-sm sticky top-0 z-10">
+          <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
+            <a href="/" className="text-xl font-bold text-blue-600 tracking-tight">
+              쉽게 따라하기
+            </a>
+            <p className="text-sm text-gray-400 hidden sm:block">누구나 따라할 수 있는 방법 안내</p>
+          </div>
         </header>
-        <main className="max-w-3xl mx-auto px-4 py-8">{children}</main>
-        <footer className="border-t text-center text-sm text-gray-400 py-6 mt-12">
-          © 2024 쉽게 따라하기
+        <main className="max-w-5xl mx-auto px-4 py-10">{children}</main>
+        <footer className="border-t bg-white text-center text-sm text-gray-400 py-8 mt-12">
+          © 2026 쉽게 따라하기
         </footer>
       </body>
     </html>
