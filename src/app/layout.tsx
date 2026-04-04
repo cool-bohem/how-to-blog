@@ -8,6 +8,9 @@ export const metadata: Metadata = {
     template: "%s | 쉽게 따라하는 방법 블로그",
   },
   description: "스마트폰, 앱, 생활 민원까지 — 누구나 따라할 수 있는 방법 안내",
+  verification: {
+    google: "hPUgoA2GhmhKyG1s_aADMbuef1yiiRzLmHWh-y6wEIE",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
