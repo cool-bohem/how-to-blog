@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: "export", // Cloudflare Pages용 정적 빌드
 };
 
 export default nextConfig;
