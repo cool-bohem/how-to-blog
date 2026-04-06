@@ -1,0 +1,30 @@
+name: Notify on Push
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send email notification
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.GMAIL_USER }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "[how-to-blog] 오늘의 글 3개 업로드 완료"
+          to: googzang@gmail.com
+          from: ${{ secrets.GMAIL_USER }}
+          body: |
+            안녕하세요!
+
+            오늘 how-to-blog에 새 글 3개가 업로드되었습니다.
+
+            블로그 확인: https://github.com/cool-bohem/how-to-blog
+
+            - Blog Bot
